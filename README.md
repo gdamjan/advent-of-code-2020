@@ -11,3 +11,10 @@ rebar3 compile
 rebar3 escriptize
 _build/default/bin/advent_of_code
 ```
+
+### Day 1
+
+```
+rebar3 shell
+day_1@main:main().
+```
